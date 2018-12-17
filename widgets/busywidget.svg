@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="73.50145mm"
+   height="34.312893mm"
+   viewBox="0 0 277.80075 129.68652"
+   version="1.1"
+   id="svg858"
+   inkscape:version="0.92.3 (unknown)"
+   sodipodi:docname="busywidget.svgz">
+  <defs
+     id="defs852" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="-93.548941"
+     inkscape:cy="-29.413086"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="982"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata855">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-232.5282,-457.67642)">
+    <path
+       sodipodi:open="true"
+       d="m 346.3641,540.97393 a 55.997543,55.997543 0 0 1 -62.72425,38.15337 55.997543,55.997543 0 0 1 -46.59041,-56.73928 55.997543,55.997543 0 0 1 49.62792,-54.10252 55.997543,55.997543 0 0 1 60.54057,41.53132"
+       sodipodi:end="6.0285534"
+       sodipodi:start="0.30942617"
+       sodipodi:ry="55.997543"
+       sodipodi:rx="55.997543"
+       sodipodi:cy="523.922"
+       sodipodi:cx="293.02597"
+       sodipodi:type="arc"
+       class="ColorScheme-Highlight"
+       style="fill:none;fill-opacity:1;stroke:currentColor;stroke-width:9;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="QQQ" />
+    <g
+       id="busywidget"
+       style="fill:none"
+       transform="translate(383.10142,458.08929)">
+      <rect
+         style="fill:none;fill-opacity:0.13963964;stroke-width:6.54099989"
+         y="1.2736498"
+         width="128"
+         height="128"
+         x="-0.77246106"
+         id="rect4416" />
+      <path
+         sodipodi:open="true"
+         d="M 116.56567,82.325581 A 55.997543,55.997543 0 0 1 62.888546,121.27017 55.997543,55.997543 0 0 1 9.686863,81.678555"
+         sodipodi:end="2.844274"
+         sodipodi:start="0.30942617"
+         sodipodi:ry="55.997543"
+         sodipodi:rx="55.997543"
+         sodipodi:cy="65.273651"
+         sodipodi:cx="63.227539"
+         sodipodi:type="arc"
+         class="ColorScheme-ViewHover"
+         style="color:#2ba7e7;fill:none;fill-opacity:1;stroke:#2ba7e7;stroke-width:14;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="XXY" />
+      <path
+         transform="scale(1,-1)"
+         id="XXX"
+         style="color:#2ba7e7;fill:none;fill-opacity:1;stroke:#2ba7e7;stroke-width:14;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         class="ColorScheme-ViewHover"
+         sodipodi:type="arc"
+         sodipodi:cx="63.227539"
+         sodipodi:cy="-65.614807"
+         sodipodi:rx="55.997543"
+         sodipodi:ry="55.997543"
+         sodipodi:start="0.30942617"
+         sodipodi:end="2.844274"
+         d="M 116.56567,-48.562877 A 55.997543,55.997543 0 0 1 62.888546,-9.6182899 55.997543,55.997543 0 0 1 9.686863,-49.209904"
+         sodipodi:open="true" />
+    </g>
+    <rect
+       style="fill:#2ba7e7;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.42857125"
+       id="hint-rotation-angle"
+       width="6"
+       height="6"
+       x="358.20688"
+       y="457.67642" />
+  </g>
+</svg>
