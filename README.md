@@ -10,7 +10,7 @@ Edited icon: application.svg, bookmarks.svg, computer.svg, view.svg, system.svg,
 Modified widgets: tasks.svg, lineedit.svg, tooltip.svg, slider.svg, panel-background.svg
 
 Changelog: 18.09.2019.
----------------------
+----------------------
 
 Added widget: bar_meter_vertical
 
